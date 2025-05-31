@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Time Tracker
+Comment=Track your work sessions easily
+Exec=python3 /home/user/Desktop/timetracker/time_tracker.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
