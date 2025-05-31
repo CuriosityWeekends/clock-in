@@ -10,4 +10,3 @@ A lightweight app to track your clock-in and clock-out times. Useful for persona
 2. Extract the contents to any folder.
 3. Open the extracted folder and navigate to the dist directory.
 4. Launch the Clock In application inside dist.
-5. You’ll see a confirmation message once the app starts.
